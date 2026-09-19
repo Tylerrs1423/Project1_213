@@ -4,12 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/src" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/src" />
           </set>
         </option>
+        <option name="myGradleHome" value="/usr/local/Cellar/gradle/8.14/libexec" />
       </GradleProjectSettings>
     </option>
   </component>
